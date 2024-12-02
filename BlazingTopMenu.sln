@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazingTopMenu", "BlazingTopMenu.csproj", "{AAF9E3F4-BF0E-4EDF-AEFB-68166777EB6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "..\API\API.csproj", "{987330B6-4D75-4E7B-BE6E-006A44BB36F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazingTopMenu", "API\API.csproj", "{987330B6-4D75-4E7B-BE6E-006A44BB36F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
